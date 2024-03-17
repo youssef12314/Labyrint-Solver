@@ -1,6 +1,6 @@
 # Maze Solver
 
-### Uses Depth- first search algorithm
+## Uses Depth- first search algorithm
 
 ### Important Info
 ### Uses a recursive for the DFS algorithm
