@@ -7,3 +7,6 @@
 * The route is figured out in one go (not animated)
 * Only shows the finished route
 * It is not finished and is not working properly
+
+# Deployed 
+https://youssef12314.github.io/Labyrint-Solver/
